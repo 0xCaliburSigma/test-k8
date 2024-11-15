@@ -10,4 +10,4 @@ images:
     newTag: 808bc1bf0e717994275e7063be8d1de34b5f647a
   - name: exchange-main-worker
     newName: registry.digitalocean.com/camelot-labs/exchange-main-worker
-    newTag: 408gc1bf0e717994275e7063be8d1de34b5f647a
+    newTag: 86a6ae3
