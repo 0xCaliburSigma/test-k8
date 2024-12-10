@@ -10,4 +10,4 @@ images:
     newTag: 01cb3ea
   - name: incentives-main-worker
     newName: registry.digitalocean.com/camelot-labs/incentives-main-worker
-    newTag: 89c621ds
+    newTag: 7cbad97
